@@ -1,0 +1,25 @@
+{
+  "name": "com.fab.alexa",
+  "version": "1.0.0",
+  "description": "Alexa Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajubhusani/FABAlexa.git"
+  },
+  "keywords": [
+    "Alexa"
+  ],
+  "author": "Nagaraju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajubhusani/FABAlexa/issues"
+  },
+  "homepage": "https://github.com/rajubhusani/FABAlexa#readme",
+  "dependencies": {
+    "ask-sdk": "^2.0.7"
+  }
+}
